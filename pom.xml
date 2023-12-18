@@ -111,8 +111,14 @@
     <artifactId>log4j-core</artifactId>
     <version>2.18.0</version>
   </dependency>
-   
-  </dependencies>
+  <dependency>
+    <groupId>org.projectlombok</groupId>
+    <artifactId>lombok</artifactId>
+    <version>1.18.24</version>
+    <scope>provided</scope>
+</dependency>
+
+</dependencies>
 
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
@@ -130,7 +136,6 @@
         <plugin>
           <artifactId>maven-compiler-plugin</artifactId>
           <version>3.10.1</version>
-         
         </plugin>
         <plugin>
           <artifactId>maven-surefire-plugin</artifactId>

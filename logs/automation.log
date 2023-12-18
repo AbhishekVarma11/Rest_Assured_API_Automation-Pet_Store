@@ -146,3 +146,11 @@
 15:45:07.423 [main] INFO  api.tests.UserTests2 - *** PUT request done***
 15:45:07.425 [main] INFO  api.tests.UserTests2 - *** Delete  user deatials using DELETE request***
 15:45:08.734 [main] INFO  api.tests.UserTests2 - *** DELETE request done***
+17:20:31.036 [main] INFO  api.tests.UserTests2 - *** creating user using post request***
+17:20:34.123 [main] INFO  api.tests.UserTests2 - *** post request done ***
+17:20:34.143 [main] INFO  api.tests.UserTests2 - *** Getting user deatials using GET request***
+17:20:35.479 [main] INFO  api.tests.UserTests2 - *** GET request done***
+17:20:35.482 [main] INFO  api.tests.UserTests2 - *** Updating  user deatials using PUT request***
+17:20:38.070 [main] INFO  api.tests.UserTests2 - *** PUT request done***
+17:20:38.072 [main] INFO  api.tests.UserTests2 - *** Delete  user deatials using DELETE request***
+17:20:39.399 [main] INFO  api.tests.UserTests2 - *** DELETE request done***
