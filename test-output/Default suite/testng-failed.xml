@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="api.tests.DDT_Tests">
+      <class name="posts.XMLValidations">
         <methods>
-          <include name="DDT_delete"/>
-          <include name="DDT_GET"/>
+          <include name="xmlTest"/>
         </methods>
-      </class> <!-- api.tests.DDT_Tests -->
+      </class> <!-- posts.XMLValidations -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
